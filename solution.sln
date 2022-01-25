@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpg", "rpg\rpg.csproj", "{C5666B62-E325-4698-82C8-46730FE2B801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpgDll", "rpgDll\rpgDll.csproj", "{1B050366-1A38-44C3-9392-6E4B089DCA64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5666B62-E325-4698-82C8-46730FE2B801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5666B62-E325-4698-82C8-46730FE2B801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5666B62-E325-4698-82C8-46730FE2B801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5666B62-E325-4698-82C8-46730FE2B801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B050366-1A38-44C3-9392-6E4B089DCA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B050366-1A38-44C3-9392-6E4B089DCA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B050366-1A38-44C3-9392-6E4B089DCA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B050366-1A38-44C3-9392-6E4B089DCA64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
